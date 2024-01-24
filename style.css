@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+nav {
+    border-top: 1px rgb(117, 170, 191);
+    font-size: 0.8rem;
+    margin-bottom: 04rem;
+    color: snow;
+    padding: 1rem 0;
+    background-color: rgba(72, 72, 115, 0.547);
+}
+
+.accentrato {
+    width: 25%;
+    text-align: left;
+    margin: auto;
+}
+
+.colore-due {
+    color: gray;
+
+}
+
+
+h3 {
+    color: cornflowerblue;
+}
+
+#cambio-colore {
+    color: rgb(122, 186, 165);
+
+}
